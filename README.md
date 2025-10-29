@@ -1,5 +1,5 @@
 # CSE 11 Fall 2025 PA5 - Image Editor
-**Due date: Thursday, November 6 @11:59PM PDT**
+**Due date: Thursday, November 13 @11:59PM PDT**
 
 **Download the starter code from GitHub by clicking: Code → Download ZIP**
 
@@ -263,7 +263,7 @@ Coding style is an important part of ensuring readability and maintainability of
 A full style guide can be found [here](https://github.com/CaoAssignments/style-guide/blob/main/README.md) and a sample styled file can be found [here](https://github.com/CaoAssignments/guides/blob/main/resources/SampleFile.java). If you need any clarifications, feel free to ask on Piazza.
 
 ## Submission & Grading
-Submit the following files to Gradescope by **Thursday, November 6 @ 11:59PM PDT**.
+Submit the following files to Gradescope by **Thursday, November 13 @ 11:59PM PDT**.
 
 - `ImageEditor.java`
 
